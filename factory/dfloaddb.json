@@ -1,0 +1,9 @@
+{
+	"name": "dfloaddb",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d0064b95-c26f-4efc-94b4-947b80bb8d23",
+		"tenantId": "0d04edd7-aafd-4a20-b669-9378b74d684f"
+	}
+}
